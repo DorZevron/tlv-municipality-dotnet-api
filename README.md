@@ -1,6 +1,6 @@
 # Tel Aviv Municipality Assessment - Rate Limiting App
 
-This repository contains the full-stack solution for the Tel Aviv Municipality development assignment. The project demonstrates client-server communication, form validation, and a custom server-side rate-limiting mechanism with state recovery.
+This repository contains the Server-side solution for the Tel Aviv Municipality development assignment. The project demonstrates client-server communication, form validation, and a custom server-side rate-limiting mechanism with state recovery.
 
 ## Architecture & Tech Stack
 
